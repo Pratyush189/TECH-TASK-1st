@@ -1,6 +1,3 @@
-//Pratyush kumar
-//21CE10047
-
 import java.util.Scanner;
 class Car
 {
